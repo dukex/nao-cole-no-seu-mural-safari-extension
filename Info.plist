@@ -21,7 +21,13 @@
 	<key>Content</key>
 	<dict>
 		<key>Scripts</key>
-		<dict/>
+		<dict>
+			<key>End</key>
+			<array>
+				<string>javascripts/jquery.min.js</string>
+				<string>javascripts/wall_clean.js</string>
+			</array>
+		</dict>
 	</dict>
 	<key>ExtensionInfoDictionaryVersion</key>
 	<string>1.0</string>
