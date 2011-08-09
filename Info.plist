@@ -47,6 +47,8 @@
 			<string>Some</string>
 		</dict>
 	</dict>
+	<key>Update Manifest URL</key>
+	<string>https://raw.github.com/emersonvinicius/nao-cole-no-seu-mural-safari-extension/master/Update.plist</string>
 	<key>Website</key>
 	<string>http://uberduke.com</string>
 </dict>
