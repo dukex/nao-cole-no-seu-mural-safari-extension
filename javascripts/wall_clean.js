@@ -17,5 +17,5 @@ duke.isBadPost = function (post) {
 }
 
 duke.trash = function (item) {
-  item.css("border", "2px solid red")
+  item.hide();
 }
